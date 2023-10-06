@@ -11,8 +11,9 @@
 </p> 
 
 <h2>Visão do projeto: </h2>
-
-<img href="https://github.com/leticiafanan/projeto-we-care/blob/master/img/Captura%20de%20Tela%202023-10-06%20%C3%A0s%2017.59.30.png?raw=true">
+<img src="https://github.com/leticiafanan/projeto-we-care/blob/master/img/Captura%20de%20Tela%202023-10-06%20%C3%A0s%2017.59.30.png?raw=true">
 <br>
 <h3>Projeto responsivo: </h3>
-<img href="https://github.com/leticiafanan/projeto-we-care/blob/master/img/Captura%20de%20Tela%202023-10-06%20%C3%A0s%2017.59.55.png?raw=true">
+<img src="https://github.com/leticiafanan/projeto-we-care/blob/master/img/Captura%20de%20Tela%202023-10-06%20%C3%A0s%2017.59.55.png?raw=true">
+
+
